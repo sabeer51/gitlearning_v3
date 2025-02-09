@@ -1,1 +1,3 @@
 these is the new file for git learning
+adding new things which learned for gittraing
+
